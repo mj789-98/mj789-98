@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mj789-98
+- 👋 Hi, I’m @mj789-98 ..Manas
 - 👀 I’m interested in ...Unity projects and blender
 - 🌱 I’m currently learning ...Flutter
 - 💞️ I’m looking to collaborate on ...python projects
