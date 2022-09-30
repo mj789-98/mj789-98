@@ -7,7 +7,7 @@
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;"  src="https://slackmojis.com/emojis/40837-ironman/download"/>
 
-**`Unity Developer (Indie Game Developer/Google Play Console Builder/)`**
+**`Unity Developer (Indie Game Developer/Google PlayConsole Developer /)`**
 
 I'm an Indie GameDeveloper exploring and learning new stuff everyday. I have created and published an Android game on Google PlayStore and a platformer adventure, PC game on 
 Itich.io. I am actively exploring new tech and tools which are new to my domain. 
