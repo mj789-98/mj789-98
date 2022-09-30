@@ -59,7 +59,10 @@ Itich.io. I am actively exploring new tech and tools which are new to my domain.
 
 #
 
-- 📫 How to reach me ...https://www.linkedin.com/in/manas-joshi-7a2105228/
+![CaptainAmericaSaluteGIF](https://user-images.githubusercontent.com/63033348/193194390-8fac905f-f92c-4341-8385-0a91cd354d0d.gif)
+
+
+  - 📫 How to reach me ...https://www.linkedin.com/in/manas-joshi-7a2105228/
 
 
 
