@@ -9,8 +9,8 @@
 
 **`Unity Developer (Indie Game Developer/Google Play Console Builder/)`**
 
-I'm an Indie GameDeveloper exploring and learning new stuff everyday. I have created and published Android game on Google PlayStore and A platform adventure PC game on 
-Itich.io  Actively exploring new tech outside of my domain and doing a hands on lab using what I have learned.
+I'm an Indie GameDeveloper exploring and learning new stuff everyday. I have created and published an Android game on Google PlayStore and a platformer adventure, PC game on 
+Itich.io. I am actively exploring new tech and tools which are new to my domain. 
   <p>
   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mj789-98?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>=
