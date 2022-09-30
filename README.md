@@ -47,11 +47,12 @@ Itich.io. I am actively exploring new tech and tools which are new to my domain.
 
 #   
 
-<h3>PC game link : </h>
+### 🎮 Published Games
+<h4>PC game link : </h4>
 <img align="left" alt="Unity" width="50px" style="padding-right:30px;" src="https://img.itch.zone/aW1nLzY1NTc5NjMucG5n/315x250%23c/w2zSt1.png"/>
 https://mjking.itch.io/fall-ball
 
-<h3>Android game link : </h>
+<h4>Android game link : </h4>
 <img align="left" alt="Unity" width="50px" style="padding-right:30px;" src="https://play-lh.googleusercontent.com/UpCjhQzs2RhHZekvvkFYZ5IqicxK-OQ4wOMnU5r4JKbY8VWwPdVlvFub1eGWUYHj-vs=w240-h480-rw"/>
 https://play.google.com/store/apps/details?id=com.manasj.guessthepicture
 
@@ -60,8 +61,8 @@ https://play.google.com/store/apps/details?id=com.manasj.guessthepicture
 <br />
 
 
----
 
+#
 
 ### 📊 Stats
 
