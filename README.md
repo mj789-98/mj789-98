@@ -66,7 +66,7 @@ https://play.google.com/store/apps/details?id=com.manasj.guessthepicture
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=mj789-98&show_icons=true&theme=gruvbox)
+![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=mj789-98&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=mj789-98&theme=gruvbox&border_radius=4.5) -->
 
