@@ -66,13 +66,15 @@ https://play.google.com/store/apps/details?id=com.manasj.guessthepicture
 
 ### 📊 Stats
 
+<img align="right" width="450px" height="190px" style="padding-right:100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mj789-98&layout=compact"/>
+
 ![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=mj789-98&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=mj789-98&theme=gruvbox&border_radius=4.5) -->
 
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mj789-98&layout=compact)](https://github.com/mj789-98/github-readme-stats)
+
 
 #
 
