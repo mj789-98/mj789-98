@@ -76,8 +76,7 @@ https://play.google.com/store/apps/details?id=com.manasj.guessthepicture
 
 
 
-#
-<img align="right" width="330px" height="190px" style="padding-right:100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mj789-98&layout=compact"/>
+
 
 ![CaptainAmericaSaluteGIF](https://user-images.githubusercontent.com/63033348/193194390-8fac905f-f92c-4341-8385-0a91cd354d0d.gif)
 
