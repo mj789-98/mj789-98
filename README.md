@@ -72,6 +72,10 @@ https://play.google.com/store/apps/details?id=com.manasj.guessthepicture
 
 #
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mj789-98&layout=compact)](https://github.com/mj789-98/github-readme-stats)
+
+#
+
 ![CaptainAmericaSaluteGIF](https://user-images.githubusercontent.com/63033348/193194390-8fac905f-f92c-4341-8385-0a91cd354d0d.gif)
 
 
