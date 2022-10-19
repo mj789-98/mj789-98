@@ -65,9 +65,9 @@ https://play.google.com/store/apps/details?id=com.manasj.guessthepicture
 
 ### 📊 Stats
 
-<img align="right" width="330px" height="200px" style="padding-right:50px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mj789-98&theme=tokyonight"/>
+<img align="right" width="330px" height="200px" style="padding-right:50px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mj789-98&layout=compact&theme=tokyonight"/>
 
-![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=mj789-98&show_icons=true&theme=gruvbox)
+![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=mj789-98&show_icons=true&theme=tokyonight)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=mj789-98&theme=gruvbox&border_radius=4.5) -->
 
