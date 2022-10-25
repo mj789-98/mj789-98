@@ -21,7 +21,7 @@ Itich.io. I am actively exploring new tech and tools which are new to my domain.
  
 
 <img align="left" alt="Unity" width="30px" style="padding-right:30px;" src="https://cdn-icons-png.flaticon.com/128/5969/5969294.png"/>  
-<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://slackmojis.com/emojis/60079-unity/download"/> 
+
 
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
