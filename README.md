@@ -17,7 +17,7 @@ Itich.io. I am actively exploring new tech and tools which are new to my domain.
   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mj789-98?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> 
   
    </p>
-   ![](https://komarev.com/ghpvc/?username=mj789-98&color=green)
+  <img alt="total stars" title="Total stars on GitHub" src=(https://komarev.com/ghpvc/?username=mj789-98&color=green)
    
  ---  
    
