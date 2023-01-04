@@ -14,10 +14,10 @@
 I'm an Indie GameDeveloper exploring and learning new stuff everyday. I have created and published an Android game on Google PlayStore and a platformer adventure, PC game on 
 Itich.io. I am actively exploring new tech and tools which are new to my domain. 
   <p>
-  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mj789-98?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> 
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mj789-98?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> <img align="right" alt="Git"style="padding-right:10px;" src="https://komarev.com/ghpvc/?username=mj789-98&color=green"
   
    </p>
-  <img alt="total stars" title="Total stars on GitHub" src=(https://komarev.com/ghpvc/?username=mj789-98&color=green)
+
    
  ---  
    
